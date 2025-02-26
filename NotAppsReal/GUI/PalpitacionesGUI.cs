@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NotAppsReal.Logica;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,11 @@ namespace NotAppsReal.GUI
 {
     class PalpitacionesGUI
     {
+        ServicioPalpitaciones Palpitaciones = new ServicioPalpitaciones();
+        public void MostrarPalpitaciones()
+        {
+            Console.WriteLine(Palpitaciones.CapturarDatos());
+        }
 
     }
 }

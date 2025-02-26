@@ -9,7 +9,7 @@ namespace NotAppsReal.GUI
     class MenuPrincipal
     {
         MenuEstudiantes menuEstudiantes = new MenuEstudiantes();
-
+        PalpitacionesGUI palpitacionesGUI = new PalpitacionesGUI();
         public void Menu()
         {
 
@@ -20,7 +20,7 @@ namespace NotAppsReal.GUI
                 Console.SetCursorPosition(10, 5); Console.Write(" M E N U  E J E R C I C I O S");
 
                 Console.SetCursorPosition(8, 8); Console.Write("1. REGISTRO DE ESTUDIANTES ");
-                Console.SetCursorPosition(8, 10); Console.Write("2.------");
+                Console.SetCursorPosition(8, 10); Console.Write("2. PALPITACIONES");
                 Console.SetCursorPosition(8, 12); Console.Write("3. ------");
                 Console.SetCursorPosition(8, 16); Console.Write("4. salir");
                 Console.SetCursorPosition(8, 18); Console.Write("Seleccione una opcion: ");
@@ -37,6 +37,7 @@ namespace NotAppsReal.GUI
                     case 2:
                         Console.Clear();
                        
+                        palpitacionesGUI.MostrarPalpitaciones();
                         Console.ReadKey();
                         break;
                     case 3:

@@ -3,39 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\gui\\palpitacionesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\gui\\palpitacionesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\gui\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\gui\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\logica\\serviciopalpitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\logica\\serviciopalpitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\gui\\palpitacionesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\gui\\palpitacionesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\logica\\servicioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\logica\\servicioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\logica\\servicioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\gui\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\gui\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\gui\\estudiantesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\gui\\estudiantesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\gui\\estudiantesgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\gui\\menuestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\gui\\menuestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\gui\\menuestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\entidad\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\entidad\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\entidad\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|c:\\users\\stey\\desktop\\trabajos de p3\\notappsreal\\notappsreal\\entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\notappsreal\\entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB410C5C-A517-4DCD-9DB4-6D596333B7F9}|NotAppsReal\\NotAppsReal.csproj|solutionrelative:notappsreal\\entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\Program.cs",
               "RelativeDocumentMoniker": "NotAppsReal\\Program.cs",
@@ -64,46 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PalpitacionesGUI.cs",
-              "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\PalpitacionesGUI.cs",
-              "RelativeDocumentMoniker": "NotAppsReal\\GUI\\PalpitacionesGUI.cs",
-              "ToolTip": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\PalpitacionesGUI.cs",
-              "RelativeToolTip": "NotAppsReal\\GUI\\PalpitacionesGUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T01:05:37.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ServicioPalpitaciones.cs",
               "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\Logica\\ServicioPalpitaciones.cs",
               "RelativeDocumentMoniker": "NotAppsReal\\Logica\\ServicioPalpitaciones.cs",
               "ToolTip": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\Logica\\ServicioPalpitaciones.cs",
               "RelativeToolTip": "NotAppsReal\\Logica\\ServicioPalpitaciones.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T01:00:51.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuEstudiantes.cs",
-              "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\MenuEstudiantes.cs",
-              "RelativeDocumentMoniker": "NotAppsReal\\GUI\\MenuEstudiantes.cs",
-              "ToolTip": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\MenuEstudiantes.cs",
-              "RelativeToolTip": "NotAppsReal\\GUI\\MenuEstudiantes.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAowGYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:28:55.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ServicioEstudiante.cs",
               "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\Logica\\ServicioEstudiante.cs",
               "RelativeDocumentMoniker": "NotAppsReal\\Logica\\ServicioEstudiante.cs",
@@ -124,21 +98,45 @@
               "RelativeToolTip": "NotAppsReal\\GUI\\EstudiantesGUI.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAAowKcAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:26:12.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T23:26:12.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "NotAppsReal\\GUI\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\MenuPrincipal.cs",
               "RelativeToolTip": "NotAppsReal\\GUI\\MenuPrincipal.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T23:31:56.942Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalpitacionesGUI.cs",
+              "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\PalpitacionesGUI.cs",
+              "RelativeDocumentMoniker": "NotAppsReal\\GUI\\PalpitacionesGUI.cs",
+              "ToolTip": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\PalpitacionesGUI.cs",
+              "RelativeToolTip": "NotAppsReal\\GUI\\PalpitacionesGUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:05:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\MenuEstudiantes.cs",
+              "RelativeDocumentMoniker": "NotAppsReal\\GUI\\MenuEstudiantes.cs",
+              "ToolTip": "C:\\Users\\stey\\Desktop\\TRABAJOS DE P3\\NotAppsReal\\NotAppsReal\\GUI\\MenuEstudiantes.cs",
+              "RelativeToolTip": "NotAppsReal\\GUI\\MenuEstudiantes.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:28:55.977Z"
             },
             {
               "$type": "Document",
@@ -150,8 +148,7 @@
               "RelativeToolTip": "NotAppsReal\\Entidad\\Estudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:23:44.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T23:23:44.117Z"
             },
             {
               "$type": "Document",
@@ -163,8 +160,7 @@
               "RelativeToolTip": "NotAppsReal\\Entidad\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:23:26.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T23:23:26.959Z"
             }
           ]
         }
