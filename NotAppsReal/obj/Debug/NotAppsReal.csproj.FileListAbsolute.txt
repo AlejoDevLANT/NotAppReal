@@ -1,0 +1,7 @@
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\bin\Debug\NotAppsReal.exe.config
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\bin\Debug\NotAppsReal.exe
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\bin\Debug\NotAppsReal.pdb
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\obj\Debug\NotAppsReal.csproj.AssemblyReference.cache
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\obj\Debug\NotAppsReal.csproj.CoreCompileInputs.cache
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\obj\Debug\NotAppsReal.exe
+C:\Users\stey\Desktop\TRABAJOS DE P3\NotAppsReal\NotAppsReal\obj\Debug\NotAppsReal.pdb
